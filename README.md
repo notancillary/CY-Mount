@@ -11,12 +11,12 @@ BOM:<br>
 4. 1x 0-40 deg (as needed) SVRBS Bracket print<br>
 5. 5x Pairs Large Command strips (i strongly suggest the velcro ones https://www.amazon.com/Command-Picture-Christmas-Decorations-Adhesive/dp/B0B3SBD6RR/ref=sr_1_4?crid=ZICAML4O8A5Z&keywords=large+command+strips&qid=1683835208&sprefix=large+command+strip%2Caps%2C134&sr=8-4)<br>
 <br>
-![Screenshot 2023-05-11 120146](https://github.com/notancillary/CY-Mount/assets/50598087/065259ab-e1db-4579-88e7-9c519b56db96)<br><br>
-![Screenshot 2023-05-11 120239](https://github.com/notancillary/CY-Mount/assets/50598087/7a9e93a4-206a-4c3b-896a-0f18e2d47560)<br><br>
-![Screenshot 2023-05-11 120249](https://github.com/notancillary/CY-Mount/assets/50598087/14b608eb-4eb3-4879-847c-09d5e9d1debb)<br><br>
-![Screenshot 2023-05-11 120305](https://github.com/notancillary/CY-Mount/assets/50598087/d517354e-1e8f-42fa-8d84-d7f89b9fba43)<br><br>
-![Screenshot 2023-05-11 120405](https://github.com/notancillary/CY-Mount/assets/50598087/f64312ac-4c89-457e-b52c-ed663b119852)<br><br>
-![Screenshot 2023-05-11 120440](https://github.com/notancillary/CY-Mount/assets/50598087/f26d3938-9da8-42c4-89d5-eaf289770732)<br><br>
+![Screenshot 2023-05-11 120146](https://github.com/notancillary/CY-Mount/assets/50598087/065259ab-e1db-4579-88e7-9c519b56db96) <br><br>
+![Screenshot 2023-05-11 120239](https://github.com/notancillary/CY-Mount/assets/50598087/7a9e93a4-206a-4c3b-896a-0f18e2d47560) <br><br>
+![Screenshot 2023-05-11 120249](https://github.com/notancillary/CY-Mount/assets/50598087/14b608eb-4eb3-4879-847c-09d5e9d1debb) <br><br>
+![Screenshot 2023-05-11 120305](https://github.com/notancillary/CY-Mount/assets/50598087/d517354e-1e8f-42fa-8d84-d7f89b9fba43) <br><br>
+![Screenshot 2023-05-11 120405](https://github.com/notancillary/CY-Mount/assets/50598087/f64312ac-4c89-457e-b52c-ed663b119852) <br><br>
+![Screenshot 2023-05-11 120440](https://github.com/notancillary/CY-Mount/assets/50598087/f26d3938-9da8-42c4-89d5-eaf289770732) <br><br>
 <br>
 Printing:<br>
 <br>
